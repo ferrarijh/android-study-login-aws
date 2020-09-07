@@ -12,7 +12,7 @@ class RegisterRequest(
 ) : StringRequest(Method.POST, URL, listener, null) {
 
     companion object{
-        const val URL = "http://13.124.217.102/register.php"
+        const val URL = "http://${Address.URL}/register.php"
     }
 
     private val parameters : Map<String, String>

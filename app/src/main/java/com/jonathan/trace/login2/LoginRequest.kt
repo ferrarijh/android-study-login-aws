@@ -9,7 +9,7 @@ class LoginRequest(
     listener: Response.Listener<String>
 ) : StringRequest(Method.POST, URL, listener, null){
     companion object{
-        const val URL = "http://13.124.217.102/login.php"
+        const val URL = "http://${Address.URL}/login.php"
     }
     private val parameters = mutableMapOf<String, String>()
     init{
