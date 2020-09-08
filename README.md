@@ -5,13 +5,13 @@ Simple login app with network connection using AWS EC2 and RDS mysql. Apache ser
 <div>
   <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/instance.png" width="500px" height="300px">
 </div>
+<div>
+  <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/php.png">
+</div>
 EC2(ubuntu), RDS instances are up and apache, php is both installed on ec2 ubuntu.
 <br></br>
 <div>
   <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/1.png">
-</div>
-<div>
-  <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/php.png">
 </div>
 At first, user with id of "study100" is not registered so trying login with that id will be in vain.
 <br></br>
