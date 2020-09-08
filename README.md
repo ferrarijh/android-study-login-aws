@@ -18,8 +18,8 @@ At first, user with id of "study100" is not registered so trying login with that
 <div>
   <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/2.png">
 </div>
-<br></br>
 Toast message shows up on login failure. So I tried to login with existing user id which is "study4"
+<br></br>
 <div>
   <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/3.png">
 </div>
