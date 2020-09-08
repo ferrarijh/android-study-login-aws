@@ -23,7 +23,7 @@ Toast message shows up on login failure. So I tried to login with existing user 
 <div>
   <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/3.png">
 </div>
-Login succeeded valid userID. Let's move on to regsiter with id "study100".
+Login succeeded with valid userID. Let's move on to RegisterActivity for new user with id "study100".
 <br></br>
 <div>
   <img src="https://github.com/ferrarijh/android-study-login-aws/blob/master/demo/empty-age.png">
