@@ -1,5 +1,5 @@
 # android-study-login-volley-aws
-Simple login app with network connection using volley with AWS EC2 and RDS mysql. Apache server on EC2 with login.php and register.php is connected with RDS.
+Comprehensive project practiced with AWS EC2 ubuntu, RDS mysql, php and android. App showcases simple login function with network connection using volley with AWS EC2 and RDS mysql. Apache server on EC2 with login.php and register.php is connected with RDS.
 
 ## Demo
 <div>
